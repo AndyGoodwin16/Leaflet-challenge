@@ -1,3 +1,4 @@
+NOTE: I did not attempt the bonus on this assignment.
 # Unit 15 Homework: Visualizing Data with Leaflet
 
 ## Background
